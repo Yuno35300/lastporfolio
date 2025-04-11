@@ -22,7 +22,7 @@ const Experience = () => {
       description: "Mise en place d'un labo cyber et réponse à une cyberattaque par DOS.",
       icon: Server,
       details: "Réalisation d’un test de déni de service (DoS) pour analyser l’impact sur un service cible. Mise en place de HAProxy en tant que reverse proxy afin de limiter l’impact de l’attaque et assurer la continuité du service.",
-      pdfUrl: "/files/projets/Haproxy.pdf"
+      pdfUrl: "/files/Haproxy.pdf"
     },
     {
      title: "Déploiement de services via Docker et Portainer.io",
@@ -31,7 +31,7 @@ period: "2025",
 description: "Installation de Docker et gestion de conteneurs via Portainer.io.",
 icon: Shield,
 details: "- Installation de Docker sur une distribution Linux\n- Déploiement de l'interface Portainer.io en conteneur\n- Création et gestion de services Docker via l'interface web\n- Visualisation des volumes, images et stacks\n- Simplification de la gestion des conteneurs",
-pdfUrl: "/files/projets/Docker.pdf"
+pdfUrl: "/files/Docker.pdf"
 
     },
     {
@@ -41,7 +41,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "Création d'environnement de teste grace à l'outil de vagrant.",
       icon: Cloud,
       details: "Utilisation de Vagrant pour des créations de labo cyber ou pour des projets d'études",
-      pdfUrl: "/files/projets/Vagrant.pdf"
+      pdfUrl: "/files/Vagrant.pdf"
     },
     {
       title: "Administration Linux",
@@ -59,7 +59,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "Mise en place D'un serveur TrueNAS avec tolérance de panne.",
       icon: Network,
       details: "Installation de TrueNAS sur un serveur et création d'un raid 1 pour avoir de la tolérance de panne",
-      pdfUrl: "/files/projets/TrueNAS.pdf"
+      pdfUrl: "/files/TrueNAS.pdf"
     },
     {
       title: "Mise en place d'outils de supervision du Parc informatique",
@@ -68,7 +68,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "Mise en place d'outils pour l'entreprise Avenir Domicile.",
       icon: Settings,
       details: "Projet de supervision incluant :\n\n-Mise en place de GLPI Sur debian12 \n- Création d'utilisateur et de l'environnement de ticketing\n- Resencement du parc informatique via Agent\n- Support de niveau 1 et 2",
-      pdfUrl: "/files/projets/glpi.pdf"
+      pdfUrl: "/files/glpi.pdf"
     },
     {
       title: "GLPI sous debian 12",
@@ -77,7 +77,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "GLPI sur debian 12.",
       icon: Cloud,
       details: "Installation d'un GLPI sur une debian 12 en ligne de commande",
-      pdfUrl: "/files/projets/Glpidebian12.pdf"
+      pdfUrl: "/files/Glpidebian12.pdf"
     },
     {
       title: "Mise en place de AD DS windows serveur 2019 et UO",
@@ -86,7 +86,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "Déploiement d'nu service windows serveur2019 avec AD DS.",
       icon: Users,
       details: "Mise en place d'un serveur windows 2019 :\n\n- Activation du DHCP \n- Mise en place d'un RELAYpour faire de la\n- Formation des utilisateurs\n- Rédaction de procédures\n- Amélioration continue du service",
-      pdfUrl: "/files/projets/windowserveur2019.pdf"
+      pdfUrl: "/files/windowserveur2019.pdf"
     },
     {
       title: "Mise en place de mon portfolio",
@@ -95,7 +95,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "Création d'un portfolio et mise en ligne.",
       icon: BookOpen,
       details: "Déploiement des services AD DS sous Windows Server 2019 pour la mise en place d’un domaine. Création d’une unité d’organisation (UO) pour structurer les objets Active Directory.",
-      pdfUrl: "/files/projets/portfolio.pdf"
+      pdfUrl: "/files/portfolio.pdf"
     },
     {
       title: "Projet Berlingo",
@@ -104,7 +104,7 @@ pdfUrl: "/files/projets/Docker.pdf"
       description: "Projet pour une entreprise fictive avec mise en place de travail en mode projet.",
       icon: Database,
       details: "Projet de formation incluant :\n\n- Travail en mode projet \n- Gérer le patrimoine informatique \n- Mise en place d'un système de gestion et de réponse aux incidents\n- Documentation des procédures\n- Mise à disposition de services informatique",
-      pdfUrl: "/files/projets/Berlingo.pdf"
+      pdfUrl: "/files/Berlingo.pdf"
     }
   ];
 
