@@ -71,13 +71,13 @@ pdfUrl: "/files/Docker.pdf"
       pdfUrl: "/files/glpi.pdf"
     },
     {
-      title: "GLPI sous debian 12",
+      title: "Montage d'une infrastructure Proxmox",
       company: "Projet Personnel",
       period: "2024",
-      description: "GLPI sur debian 12.",
+      description: "Création d'une infrastructure virtualisée avec Proxmox.",
       icon: Cloud,
-      details: "Installation d'un GLPI sur une debian 12 en ligne de commande",
-      pdfUrl: "/files/Glpidebian12.pdf"
+      details: "Installation et configuration d'un environnement Proxmox VE incluant la mise en place de VMs, la gestion réseau et le stockage.",
+      pdfUrl: "/files/ProxmoxInfrastructure.pdf"
     },
     {
       title: "Mise en place de AD DS windows serveur 2019 et UO",
@@ -89,12 +89,12 @@ pdfUrl: "/files/Docker.pdf"
       pdfUrl: "/files/windowserveur2019.pdf"
     },
     {
-      title: "Mise en place de mon portfolio",
-      company: "Personnel",
+      title: "Portfolio React avec IA Bolt",
+      company: "Projet Personnel",
       period: "2024",
-      description: "Création d'un portfolio et mise en ligne.",
-      icon: BookOpen,
-      details: "Déploiement des services AD DS sous Windows Server 2019 pour la mise en place d’un domaine. Création d’une unité d’organisation (UO) pour structurer les objets Active Directory.",
+      description: "Développement d’un portfolio dynamique en React.",
+      icon: Cloud,
+      details: "Création d’un portfolio en React avec l'aide de l'IA Bolt, hébergé sur Vercel, avec le code source publié sur GitHub. Achat du nom de domaine personnalisé : cheroretkylian.fr.",
       pdfUrl: "/files/portfolio.pdf"
     },
     {
