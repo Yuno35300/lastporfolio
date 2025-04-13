@@ -77,7 +77,7 @@ pdfUrl: "/files/Docker.pdf"
       description: "Création d'une infrastructure virtualisée avec Proxmox.",
       icon: Cloud,
       details: "Installation et configuration d'un environnement Proxmox VE incluant la mise en place de VMs, la gestion réseau et le stockage.",
-      pdfUrl: "/files/ProxmoxInfrastructure.pdf"
+      pdfUrl: "/files/proxmox.pdf"
     },
     {
       title: "Mise en place de AD DS windows serveur 2019 et UO",
@@ -89,7 +89,7 @@ pdfUrl: "/files/Docker.pdf"
       pdfUrl: "/files/windowserveur2019.pdf"
     },
     {
-      title: "Portfolio React avec IA Bolt",
+      title: "Création d'un portfolio",
       company: "Projet Personnel",
       period: "2024",
       description: "Développement d’un portfolio dynamique en React.",
