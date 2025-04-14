@@ -5,7 +5,7 @@ const SkillsDownload = () => {
   return (
     <div className="text-center mt-12">
       <a
-        href="/files/Tableau.pdf"
+        href="/files/tableau.pdf"
         download
         className="inline-flex items-center gap-2 bg-indigo-600 dark:bg-indigo-500 text-white 
                  px-6 py-3 rounded-lg hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-colors"
