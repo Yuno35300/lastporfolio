@@ -31,7 +31,7 @@ period: "2025",
 description: "Installation de Docker et gestion de conteneurs via Portainer.io.",
 icon: Shield,
 details: "- Installation de Docker sur une distribution Linux\n- Déploiement de l'interface Portainer.io en conteneur\n- Création et gestion de services Docker via l'interface web\n- Visualisation des volumes, images et stacks\n- Simplification de la gestion des conteneurs",
-pdfUrl: "/files/Docker.pdf"
+pdfUrl: "/files/docker.pdf"
 
     },
     {
@@ -104,7 +104,7 @@ pdfUrl: "/files/Docker.pdf"
       description: "Projet pour une entreprise fictive avec mise en place de travail en mode projet.",
       icon: Database,
       details: "Projet de formation incluant :\n\n- Travail en mode projet \n- Gérer le patrimoine informatique \n- Mise en place d'un système de gestion et de réponse aux incidents\n- Documentation des procédures\n- Mise à disposition de services informatique",
-      pdfUrl: "/files/Berlingo.pdf"
+      pdfUrl: "/files/berlingo.pdf"
     }
   ];
 
